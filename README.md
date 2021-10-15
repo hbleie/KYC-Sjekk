@@ -2,7 +2,7 @@
 
 Stacc code challenge 2021
 
-Oppgavebeskrivelse
+# Oppgavebeskrivelse
 
 Jeg har forsøkt meg på forslag a) lag en enkel webapp som lar brukeren utføre en KYC-sjekk av en person.
 
@@ -24,16 +24,19 @@ Jeg tolket oppgaven dithen at en PEP-sjekk er en tilstrekkelig KYC-sjekk. Derfor
 
 
 
-Hvordan kjøre prosjektet
+# Hvordan kjøre prosjektet
+
 Prosjektet er publisert med streamlit og kan kjøres ved å klikke på lenken under.
 lenke til webapp:
 https://share.streamlit.io/hbleie/kyc-sjekk/main/KYC-sjekk.py
 
 
-Kommentarer
+# Kommentarer
+
 Jeg valgte å bruke Python og streamlit fordi jeg nettopp hadde laget en litt liknende webapp i kodeoppgaven til fagkvelden med STACC. Derfor var jeg allerede godt kjent med funksjoner og løsninger streamlit inneholder. 
 
-Eventuellt andre kommentarer / utfordringer?
+# Eventuellt andre kommentarer / utfordringer?
+
 Jeg brukte litt på å forstå dataene jeg fikk fra API'et, og hvordan jeg kunne jobbe med dem. 
 
 I starten hadde jeg og litt problemer med Github siden jeg brukte spyder til å kode i. Jeg endte opp med å bruke visual studio code i stedet, som det var mye lettere å bruke sammen med Github. 
