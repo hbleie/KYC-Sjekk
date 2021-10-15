@@ -14,7 +14,7 @@ def PepSøk(input):
     response = requests.request("GET", url, headers=headers, data=payload)
     r = response.json()
     st.write('Number of hits: ' + str(r['numberOfHits']))
-    st.subseader('Political Exposed Person = ' + str(r['numberOfHits'] > 0))
+    st.subsheader('Political Exposed Person = ' + str(r['numberOfHits'] > 0))
     for hit in r["hits"]:
         st.header(hit['name'])
         st.write('BIRTH DATE: ' + hit['birth_date'])
