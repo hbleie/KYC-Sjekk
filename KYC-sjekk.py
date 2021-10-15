@@ -28,7 +28,6 @@ if filter == "PEP-sjekk enkeltperson":
         PepSøk(input)
     
 
-
 if filter == "Selskap": 
     input = st.text_input("Søk etter Selskap (Bruk Organisasjonsnummer)")
     if input:
