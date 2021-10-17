@@ -37,7 +37,7 @@ Jeg valgte å bruke Python og streamlit fordi jeg nettopp hadde laget en litt li
 
 # Eventuellt andre kommentarer / utfordringer?
 
-Jeg brukte litt på å forstå dataene jeg fikk fra API'et, og hvordan jeg kunne jobbe med dem. 
+Jeg brukte litt tid på å forstå dataene jeg fikk fra API'et, og hvordan jeg kunne jobbe med dem. 
 
 I starten hadde jeg og litt problemer med Github siden jeg brukte spyder til å kode i. Jeg endte opp med å bruke visual studio code i stedet, som det var mye lettere å bruke sammen med Github. 
 
